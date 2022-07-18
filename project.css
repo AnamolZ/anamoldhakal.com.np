@@ -36,15 +36,15 @@ body{
 }
 
 .car-1{
-    background-image: url('cloudx.png');
+    background-image: url('images/cloudx.png');
 }
 
 .car-2{
-    background-image: url('gui.png');
+    background-image: url('images/gui.png');
 }
 
 .car-3{
-    background-image: url('receipt.png');
+    background-image: url('images/receipt.png');
 }
 
 .card h2{
